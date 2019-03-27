@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251263191830",
+    "firebase_url": "https://leminhhieulog.firebaseio.com",
+    "project_id": "leminhhieulog",
+    "storage_bucket": "leminhhieulog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251263191830:android:e932a2f8ddba5310",
+        "android_client_info": {
+          "package_name": "com.example.student.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251263191830-89brcl60fda1aqeftk2kfar4d40j0u7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.login",
+            "certificate_hash": "a9d4293be09d5e10af261aac6d83359b45a2a3fa"
+          }
+        },
+        {
+          "client_id": "251263191830-mrpabcuq54ouu4irmj9ajmrdbi4k06aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7P56ung2b9AxFW-4O4jaIE0u7WXSNxOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251263191830-mrpabcuq54ouu4irmj9ajmrdbi4k06aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
